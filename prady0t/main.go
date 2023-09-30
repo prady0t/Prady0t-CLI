@@ -1,6 +1,8 @@
 package main
 
-import "Gophercises/Prady0t-CLI/Prady0t-CLI/prady0t/controls"
+import "Prady0t/prady0t/controls"
+
+
 
 
 
